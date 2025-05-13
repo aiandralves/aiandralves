@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Aiandra Alves
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/aiandralves/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://aiandralves.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiandralves/)](https://www.linkedin.com/in/aiandralves/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.aiandralves.com/)](https://aiandralves.com/)
 [![Gmail Badge](https://img.shields.io/badge/-aiandra.meira@ftc.edu.br.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aiandra.meira@ftc.edu.br)](mailto:aiandra.meira@ftc.edu.br)
 
 - 👩‍💻 Desenvolvedora Frontend Pleno @[TIVIC - Tecnologia, informação e inovação](https://www.tivic.com.br/)
